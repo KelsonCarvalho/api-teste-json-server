@@ -33,6 +33,7 @@ Demo from this repository:
 ## Modificada `db.json`
 
 ```json
+{
 "cell_phones":[
 		{
 			"id": 1,
@@ -287,6 +288,7 @@ Demo from this repository:
 			]
 		}
 	]
+}
 ```
 
 ## Reference
